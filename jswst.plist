@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.hanhe.JSWST.fix</string>
 				<key>bundle-version</key>
-				<string>1.1.6</string>
+				<string>1.1.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>江苏卫生</string>
+				<string>健康江苏</string>
 			</dict>
 		</dict>
 	</array>
